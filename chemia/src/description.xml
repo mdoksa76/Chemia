@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+             xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier value="hr.mdoksa.chemia"/>
+  <version value="0.9.0"/>
+  <display-name>
+    <name lang="hr">Kemija (Chemia)</name>
+    <name lang="en">Chemia</name>
+  </display-name>
+  <extension-description>
+    <src lang="hr" xlink:href="description/desc_hr.txt"/>
+    <src lang="en" xlink:href="description/desc_en.txt"/>
+  </extension-description>
+  <icon>
+    <default xlink:href="icons/icon.png"/>
+  </icon>
+  <publisher>
+    <name xlink:href="https://github.com/mdoksa76" lang="en">mdoksa76</name>
+  </publisher>
+  <dependencies>
+    <OpenOffice.org-minimal-version value="4.1" d:name="LibreOffice 5+"
+      xmlns:d="http://openoffice.org/extensions/description/2006"/>
+  </dependencies>
+</description>

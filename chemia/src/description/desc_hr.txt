@@ -1,0 +1,1 @@
+Chemia — umetanje periodnog sustava, kartica elemenata i 3D molekula (PubChem) u LibreOffice. Dva sloja nad zajednickom jezgrom. Slika identicno u sve 4 aplikacije.

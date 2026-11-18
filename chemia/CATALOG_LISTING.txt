@@ -1,0 +1,26 @@
+Chemia — chemistry graphics for LibreOffice
+
+Insert a periodic table, element cards and 3D molecules straight at the cursor
+in Writer, Calc, Impress and Draw. Made for teaching materials: clean,
+print-friendly output (light/transparent by default), one consistent look.
+
+Periodic table
+- full table, a single group (with its property name), a single period, or an
+  element card with a Bohr atom model and full data (atomic number, mass,
+  period/group, state, electronegativity, protons/neutrons/electrons, radius,
+  oxidation states, electron configuration, isotopes).
+
+MolViz (molecules)
+- 3D molecule from PubChem: ball & stick, wireframe or space-filling.
+- search by name or SMILES, pick from candidates (isomers / typo suggestions).
+- optional data panel: Mr, M, molecule mass, exact mass, mass fractions, with a
+  CPK colour legend matching the atoms.
+
+Both layers: insert as one SVG image (identical in all four apps) at 17 cm width
+with preserved aspect ratio. Every inserted graphic stores a recipe, so
+"Edit selected…" re-opens its dialog pre-filled and updates the same object.
+
+Menu: Tools > Add-Ons > Chemistry.
+English UI (more languages planned). Needs internet only for molecules (PubChem).
+
+License: GPL-3.0. Source: https://github.com/mdoksa76/Chemia

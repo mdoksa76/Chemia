@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+src/pythonpath/_preview/
+.DS_Store

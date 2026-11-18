@@ -1,0 +1,1 @@
+Chemia — insert the periodic table, element cards and 3D molecules (PubChem) into LibreOffice. Image identical across Writer/Calc/Impress/Draw.
